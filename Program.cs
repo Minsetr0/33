@@ -4,4 +4,4 @@ Console.WriteLine("Какой у вас знак зодиака?");
 string zodiacSign = Console.ReadLine();
 Console.WriteLine("Кем вы работаете?");
 string work = Console.ReadLine();
-Console.WriteLine($"{name}{zodiacSign}{work}");
+Console.WriteLine($"Ваше имя {name}, ваш знак зодиака {zodiacSign}, а так же вы работаете {work}");
